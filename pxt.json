@@ -1,6 +1,5 @@
 {
     "name": "Downhill Skiing Tutorial",
-    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -16,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.5",
+        "target": "1.13.42",
         "targetId": "arcade"
     },
     "supportedTargets": [
